@@ -4,3 +4,7 @@ function togglemenu () {
     menu.classList.toggle("open")
     icon.classList.toggle("open")
 }
+
+alert(" Welcome to my portfolio page!");
+console.log("Hello world");
+
